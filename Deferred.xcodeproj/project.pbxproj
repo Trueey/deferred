@@ -137,7 +137,7 @@
 		AEEC4C661CA1F2ED00D0F035 /* KSPromiseSpec.mm in Sources */ = {isa = PBXBuildFile; fileRef = AEEC4C641CA1F2ED00D0F035 /* KSPromiseSpec.mm */; };
 		AEEC4C671CA1F2ED00D0F035 /* KSPromiseSpec.mm in Sources */ = {isa = PBXBuildFile; fileRef = AEEC4C641CA1F2ED00D0F035 /* KSPromiseSpec.mm */; };
 		AEEC4C681CA1F2ED00D0F035 /* KSPromiseSpec.mm in Sources */ = {isa = PBXBuildFile; fileRef = AEEC4C641CA1F2ED00D0F035 /* KSPromiseSpec.mm */; };
-		E10B702716F11AF800957DA4 /* KSNetworkClient.h in Headers */ = {isa = PBXBuildFile; fileRef = E10B702516F11AF800957DA4 /* KSNetworkClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E10B702716F11AF800957DA4 /* KSNetworkClient.h in Headers */ = {isa = PBXBuildFile; fileRef = E10B702516F11AF800957DA4 /* KSNetworkClient.h */; };
 		E10B702816F11AF800957DA4 /* KSNetworkClient.h in Headers */ = {isa = PBXBuildFile; fileRef = E10B702516F11AF800957DA4 /* KSNetworkClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E10B702916F11AF800957DA4 /* KSNetworkClient.m in Sources */ = {isa = PBXBuildFile; fileRef = E10B702616F11AF800957DA4 /* KSNetworkClient.m */; };
 		E10B702A16F11AF800957DA4 /* KSNetworkClient.m in Sources */ = {isa = PBXBuildFile; fileRef = E10B702616F11AF800957DA4 /* KSNetworkClient.m */; };
@@ -618,11 +618,11 @@
 				E15F47471570786900080763 /* KSDeferred.h in Headers */,
 				AE3C6E4D19A3533B004BECE4 /* KSURLConnectionClient.h in Headers */,
 				3445670C1B66A94C009D4516 /* KSGenericsCompat.h in Headers */,
+				E10B702716F11AF800957DA4 /* KSNetworkClient.h in Headers */,
 				34244A271B4BA59C008A0DF0 /* KSNullabilityCompat.h in Headers */,
 				AE3C6E6319A354E5004BECE4 /* KSURLSessionClient.h in Headers */,
 				E1E5C51516CAE6F000C1385F /* KSPromise.h in Headers */,
 				34490E601BC7F5680067BFD5 /* KSCancellable.h in Headers */,
-				E10B702716F11AF800957DA4 /* KSNetworkClient.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
